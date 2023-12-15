@@ -1,1 +1,18 @@
 # The-Gaming-Room
+
+Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
+I work for Creative Technology Solutions as a Technology Consultant and I have been assigned to work with our client, The Gaming Room. The Gaming Room has a game application called "Draw It or Lose It" for Android systems, and they want to offer this application to users on different platforms. 
+
+What did you do particularly well in developing this documentation?
+Encrypted data protocols like TLS/SSL can be used to secure communications as well as security checks that will review code and test for vulnerabilities. Using two-factor authentication and controlling assess will also improve security. TLS/SSL certificate costs can range from $8 to $1000, depending on the number of domains and validations.
+
+What about the process of working through a design document did you find helpful when developing the code?
+
+
+If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+
+
+How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
+
+
+How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
