@@ -13,6 +13,8 @@ If you could choose one part of your work on these documents to revise, what wou
 I would revise the memory management section to address the need to ensure there's enough memory to store image quickly to avoid slow loading times, and test these times to ensure a good user experience. I would also discuss aspects of Java memory management like garbage collection and memory optimization as I relates to images. 
 
 How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
-
+I needed to understand their requirements and expectations so the software would be well-recieved by the intended users. It is important to consider the user's needs when designing because you want the app to be intuitive in design and effective when played. 
 
 How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+I would have to understand and balance the client's requirements with the users expectations, break down the software into small pieces, and use iteration and testing to fine-tune the software based on feedback.
+
