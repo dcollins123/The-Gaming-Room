@@ -17,4 +17,3 @@ I needed to understand their requirements and expectations so the software would
 
 How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
 I would have to understand and balance the client's requirements with the users expectations, break down the software into small pieces, and use iteration and testing to fine-tune the software based on feedback.
-
